@@ -1,4 +1,4 @@
-# Using Linear Regression to Predict Housing Prices
+# Prediction Of Housing Prices
 
 -> Cleaning a housing dataset and using Simple Linear Regression and Multiple Linear Regression to forecast home prices are the main goals of this project.
 
@@ -41,7 +41,8 @@ The coefficients and intercept for every feature are shown.
 ###  Extra Illustrations
 
 Residuals Plot: To evaluate model accuracy and randomness.
-The correlation between each of the dataset's numerical features is displayed in the :- Correlation Heatmap.
+The correlation between each of the dataset's numerical features is displayed in the :- 
+## Correlation Heatmap.
 
 
 
