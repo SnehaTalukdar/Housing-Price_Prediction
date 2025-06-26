@@ -41,8 +41,9 @@ The coefficients and intercept for every feature are shown.
 ###  Extra Illustrations
 
 Residuals Plot: To evaluate model accuracy and randomness.
-The correlation between each of the dataset's numerical features is displayed in the :- 
-## Correlation Heatmap.
+ 
+## Correlation Heatmap 
+ The correlation between each of the dataset's numerical features is displayed in here. 
 
 
 
